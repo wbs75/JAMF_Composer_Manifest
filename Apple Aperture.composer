@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Apple Aperture</name>
+	<notes>Version 3.4.3:</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/Aperture.app</image_path>
+	<check_for>/Applications/Aperture.app</check_for>
+	<diff>/Applications/Aperture.app
+/Library/Application Support/Script Editor/Templates/Aperture
+/Library/Application Support/Script Editor/Templates/Aperture/Aperture Import Action.scptd
+/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBAperturePlugin2012.ilmbplugin
+/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBAperturePlugin.ilmbplugin
+/Library/Application Support/iLifeMediaBrowser/Plug-Ins/iLMBAperture31Plugin.ilmbplugin
+/Library/Application Support/ProApps
+/System/Library/PrivateFrameworks/ShareKit.framework/Versions/A/PlugIns/System.sharingservice/Contents/Resources/ApertureIcon.</diff>
+</preinstalled_package>

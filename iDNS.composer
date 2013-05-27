@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>iDNS</name>
+	<notes>Version 1.3</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/iDNS.app</image_path>
+	<check_for>/Applications/iDNS.app</check_for>
+	<diff>/Applications/iDNS.app
+/private/etc/idns/loggingOptions.conf.idns
+/private/etc/idns/options.conf.idns
+/private/etc/idns/publicView.conf.idns
+/private/etc/idns
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/Resources/IDNScriptWhiteList.txt
+/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/IDNScriptWhiteList.txt
+/Users/admin/Library/Preferences/com.MacServe.iDNS.plist
+/Users/admin/Library/Caches/com.MacServe.iDNS
+/Users/admin/Library/Saved Application State/com.MacServe.iDNS.savedState</diff>
+</preinstalled_package>

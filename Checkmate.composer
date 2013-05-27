@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+        <name>Checkmate</name>
+        <notes>Micromat, Inc. Checkmate,  monitors your Mac's health</notes>
+        <created_by>William Smith</created_by>
+        <image_path>/Applications/Checkmate.app</image_path>
+        <check_for>/Applications/Checkmate.app</check_for>
+        <diff>/Applications/Checkmate.app
+/Library/Checkmate
+/Library/Application Support/Checkmate
+//Library/Checkmate/CheckmateAgent.app
+/Library/Checkmate/CheckmateIdleDaemon.app
+/Library/Checkmate/CheckmateWorkerDaemon.app
+/Library/LaunchDaemons/com.micromat.CheckmateWorkerDaemon.plist
+/Library/LaunchDaemons/com.micromat.CheckmateIdleDaemon.plist
+/Library/LaunchAgents/com.micromat.CheckmateAgent.plist
+/Library/Preferences/com.micromat.CheckmateIdleDaemon.plist</diff>
+</preinstalled_package>
+

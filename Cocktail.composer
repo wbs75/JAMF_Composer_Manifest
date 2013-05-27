@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Cocktail</name>
+	<notes>Version 6.2.1</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/Cocktail.app</image_path>
+	<check_for>/Applications/Cocktail.app</check_for>
+	<diff>/Applications/Cocktail.app
+/Library/Application Support/Cocktail
+/Library/StartupItems/Cocktail/Cocktail
+/Library/StartupItems/Cocktail
+/Library/Preferences/com.maintain.cocktail.plist
+/Library/LaunchAgents/com.maintain.CocktailSystemEvents.plist
+/Library/LaunchAgents/com.maintain.CocktailPurgeInactiveMemory.plist
+/Users/admin/Library/Preferences/com.maintain.cocktail.mountainlion.plist
+/Users/admin/Library/Preferences/com.maintain.cocktail.plist
+/Users/admin/Library/LaunchAgents/com.maintain.CocktailUserLibraryDirectory.plist
+/Users/admin/Library/Preferences/com.maintain.cocktail.lion.plist</diff>
+</preinstalled_package>

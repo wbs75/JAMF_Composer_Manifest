@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>MediaFire Express</name>	<notes>MediaFire Express</notes>	<created_by>W Smith</created_by>	<image_path>/Applications/MediaFire Express.app</image_path>	<check_for>/Applications/MediaFire Express.app</check_for>	<diff>/Applications/MediaFire Express.app
+/Users/wbs/Library/Preferences/com.mediafire.express.plist
+/Library/MediaFire</diff></preinstalled_package>

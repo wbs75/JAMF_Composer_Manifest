@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Disk Arbitrator</name>	<notes>Disk Arbitrator</notes>	<created_by>W Smith</created_by>	<image_path>/Applications/Utilities/Disk Arbitrator.app</image_path>	<check_for>/Applications/Utilities/Disk Arbitrator.app</check_for>	<diff>/Applications/Utilities/Disk Arbitrator.app
+/Library/LaunchAgents/Disk Arbitrator Agent.plist</diff></preinstalled_package>

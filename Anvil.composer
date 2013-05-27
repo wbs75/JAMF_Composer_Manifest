@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Anvil</name>	<notes>Anvil 0.76</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Anvil.app</image_path>	<check_for>/Applications/Anvil.app</check_for>	<diff>/Applications/Anvil.app
+/Users/wbs/Library/Preferences/com.riot.Anvil.plist
+/usr/libexec/postfix/anvil
+/usr/share/doc/postfix/html/anvil.8.html
+/usr/share/man/man8/anvil.8</diff></preinstalled_package>

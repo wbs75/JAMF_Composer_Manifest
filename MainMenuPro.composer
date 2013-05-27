@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>MainMenuPro</name>	<notes>MainMenu Pro</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/MainMenu Pro.app</image_path>	<check_for>/Applications/MainMenu Pro.app</check_for>	<diff>/Applications/MainMenu Pro.app
+/Users/wbs/Library/Application Support/MainMenu Pro
+/Users/wbs/Library/Preferences/com.creativebe.MainMenu.plist
+/Library/PrivilegedHelperTools/com.creativebe.MainMenuHelper
+/Library/LaunchDaemons/com.creativebe.MainMenuHelper.plist</diff></preinstalled_package>

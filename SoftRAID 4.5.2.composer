@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>SoftRAID 4.5.2</name>	<notes>SoftRAID application presents a graphical interface to the user to make it easy to create, delete and administer SoftRAID volumes</notes>	<created_by>William Smith</created_by>	<image_path>/Applications/SoftRAID 4.5.2.app</image_path>	<check_for>/Applications/SoftRAID 4.5.2.app</check_for>	<diff>/Applications/SoftRAID 4.5.2.app
+/Users/wbs/Library/Preferences/com.softraid.softraid.plist
+/Library/Application Support/SoftRAID</diff></preinstalled_package>

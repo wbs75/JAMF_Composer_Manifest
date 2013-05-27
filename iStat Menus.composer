@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>iStat Menus</name>
+	<notes>Version 4.0.2</notes>
+	<created_by>Version 3.1</created_by>
+	<image_path>/Applications/iStat Menus.app</image_path>
+	<check_for>/Applications/iStat Menus.app</check_for>
+	<diff>/Applications/iStat Menus.app
+/Library/Application Support/iStat Menus 4
+/Library/Application Support/iStat Menus 4/extras/iStatMenusTemps.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusNetwork.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusMemory.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusDrives.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusCPU.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusDateAndTimes.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusBattery.menu
+/Library/Application Support/iStat Menus 4/extras/iStatMenusCombined.menu
+/Library/Application Support/iStat Menus 4/iStatMenusAgent
+/Library/Application Support/iStat Menus 4/iStatMenus.bundle
+/Library/Application Support/iStat Menus 4/iStatMenusDaemon
+/Library/Preferences/com.bjango.istatmenus.plist
+/Library/LaunchAgents/com.bjango.istatmenusagent.plist
+/Users/admin/Library/Application Support/iStat Menus
+/Users/admin/Library/Preferences/com.bjango.istatmenus.plist
+/Users/admin/Library/Preferences/com.bjango.istatmenus.extras.plist</diff>
+</preinstalled_package>

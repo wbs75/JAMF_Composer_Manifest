@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Xcode</name>
+	<notes>Version 4.5.2</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/Xcode.app</image_path>
+	<check_for>/Applications/Xcode.app</check_for>
+	<diff>/Applications/Xcode.app
+/Library/Developer
+/usr/share/xcode-select/xcode_dir_path
+/usr/share/xcode-select
+/usr/share/man/man1/xcodebuild.1
+/usr/share/man/man1/xcode-select.1
+/System/Library/Automator/Build Xcode Project.action
+/Users/admin/Library/Developer
+/Users/admin/Library/Preferences/com.apple.dt.Xcode.LSSharedFileList.plist
+/Users/admin/Library/Preferences/com.apple.dt.Xcode.plist
+/Users/admin/Library/Preferences/com.apple.FileMerge.plist</diff>
+</preinstalled_package>

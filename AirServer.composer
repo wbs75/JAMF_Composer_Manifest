@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>AirServer</name>	<notes>AirServer 4.6.5</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/AirServer.app</image_path>	<check_for>/Applications/AirServer.app</check_for>	<diff>/Applications/AirServer.app
+/Users/wbs/Library/PreferencePanes/AirServer.prefPane
+/Users/wbs/Library/Preferences/ByHost/com.pratikkumar.airserver-mac.68296EB8-678A-5D6C-B437-F6710A922355.plist
+/Users/wbs/Library/Preferences/com.pratikkumar.airserver-mac.plist</diff></preinstalled_package>

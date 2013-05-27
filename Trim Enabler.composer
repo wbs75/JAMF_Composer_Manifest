@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Trim Enabler</name>	<notes>Trim Enabler</notes>	<created_by>Willaim Smith</created_by>	<image_path>/Applications/Trim Enabler.app</image_path>	<check_for>/Applications/Trim Enabler.app</check_for>	<diff>/Applications/Trim Enabler.app
+/Users/wbs/Library/Preferences/Cindori.Trim-Enabler.plist</diff></preinstalled_package>

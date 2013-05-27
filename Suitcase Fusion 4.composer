@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Suitcase Fusion 4</name>
+	<notes>Version 15.0.5 (515)</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/Suitcase Fusion 4.app</image_path>
+	<check_for>/Applications/Suitcase Fusion 4.app</check_for>
+	<diff>/Applications/Suitcase Fusion 4.app
+/Library/LaunchAgents/com.extensis.FMCore.plist
+/Library/Frameworks/ExtensisPlugins.framework
+/Library/Frameworks/ExtensisPlugins.framework/Versions/Current/ExtensisPlugins
+/Library/Frameworks/ExtensisPlugins.framework/Versions/A/ExtensisPlugins
+/Library/Frameworks/ExtensisPlugins.framework/ExtensisPlugins
+/Library/Frameworks/ExtensisPlugins.framework/Versions/Current/Resources/SuitcaseFusion.icns
+/Library/Frameworks/ExtensisPlugins.framework/Versions/A/Resources/SuitcaseFusion.icns
+/Library/Frameworks/ExtensisPlugins.framework/Resources/SuitcaseFusion.icns
+/Users/admin/Library/Extensis
+/Users/admin/Library/Extensis/Suitcase Fusion
+/Users/admin/Library/Extensis/Suitcase Fusion/Suitcase Fusion.fontvault
+/Users/admin/Library/Preferences/com.extensis.SuitcaseFusion4.plist
+/Users/admin/Library/Preferences/com.extensis.SuitcaseFusion.db
+/private/var/db/receipts/com.extensis.SuitcaseFusion4EN1505installer.plist
+/private/var/db/receipts/com.extensis.SuitcaseFusion4EN1505installer.bom</diff>
+</preinstalled_package>

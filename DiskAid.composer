@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+        <name>DiskAid</name>
+        <notes>DiskAid 6.2.3</notes>
+        <created_by>William Smith</created_by>
+        <image_path>/Applications/DiskAid.app</image_path>
+        <check_for>/Applications/DiskAid.app</check_for>
+        <diff>/Applications/DiskAid.app
+/Library/Application Support/DiskAid
+/Users/admin/Library/Preferences/com.DigiDNA.DiskAid.plist</diff>
+</preinstalled_package>

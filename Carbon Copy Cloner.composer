@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Carbon Copy Cloner</name>	<notes>Carbon Copy Cloner</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Carbon Copy Cloner.app</image_path>	<check_for>/Applications/Carbon Copy Cloner.app</check_for>	<diff>/Applications/Carbon Copy Cloner.app
+/Library/Application Support/com.bombich.ccc
+/Users/wbs/Library/Preferences/com.bombich.netrestore.plist
+/Users/wbs/Library/Preferences/com.bombich.ccc.plist
+/Users/wbs/Library/Application Support/com.bombich.ccc
+/Library/LaunchDaemons/com.bombich.ccc.plist
+/Library/PrivilegedHelperTools/com.bombich.ccc</diff></preinstalled_package>

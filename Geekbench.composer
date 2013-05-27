@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Geekbench</name>	<notes>Geekbench</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Geekbench.app</image_path>	<check_for>/Applications/Geekbench.app</check_for>	<diff>/Applications/Geekbench.app
+/Users/wbs/Library/Preferences/ca.primatelabs.Geekbench24.plist
+/Users/wbs/Library/Preferences/ca.primatelabs.Geekbench2.plist
+/usr/local/bin/geekbench</diff></preinstalled_package>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>SpeedTools Utilities Pro</name>	<notes>Version 3.8.3</notes>	<created_by>William Smith</created_by>	<image_path>/Applications/SpeedTools Utilities Pro.app</image_path>	<check_for>/Applications/SpeedTools Utilities Pro.app</check_for>	<diff>/Applications/SpeedTools Utilities Pro.app
+/Library/Application Support/SpeedTools Utilities Support/
+/Library/Application Support/SpeedTools Utilities Support/SpeedToolsSchedulerPIDs.plist
+/Library/Application Support/SpeedTools Utilities Support/SpeedToolsPrefs.plist
+/Library/Application Support/SpeedTools Utilities Support/SpeedToolsActivityLog.plist
+/Library/Application Support/SpeedTools Utilities Support/STLA.intech</diff></preinstalled_package>

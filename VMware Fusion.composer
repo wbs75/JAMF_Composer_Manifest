@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>VMware Fusion</name>
+	<notes>Version 5.0.2</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/VMware Fusion.app</image_path>
+	<check_for>/Applications/VMware Fusion.app</check_for>
+	<diff>/Applications/VMware Fusion.app
+/Library/Application Support/VMware
+/Library/Application Support/VMware/VMware Fusion
+/Library/Preferences/VMware Fusion
+/Users/admin/Library/Application Support/VMware Fusion
+/Users/admin/Library/Logs/VMware
+/Users/admin/Library/Logs/VMware Fusion
+/Users/admin/Library/Preferences/VMware Fusion
+/Users/admin/Library/Preferences/com.vmware.fusion.plist
+/Users/admin/Library/Preferences/com.vmware.fusionStartMenu.plist
+/private/var/db/vmware
+/usr/share/file/magic/vmware</diff>
+</preinstalled_package>
