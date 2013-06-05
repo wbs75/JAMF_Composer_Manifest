@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>SpeedDownload5</name>	<notes>Speed Download 5</notes>	<created_by>W. S.</created_by>	<image_path></image_path>	<image_data>TU0AKgAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>SpeedDownload5</name>
+	<notes>Speed Download 5</notes>
+	<created_by>W. S.</created_by>
+	<image_path></image_path>
+	<image_data>TU0AKgAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -409,8 +415,11 @@ zbXONs62zzfPuNA50LrRPNG+0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY6Nls
 2fHadtr724DcBdyK3RDdlt4c3qLfKd+v4DbgveFE4cziU+Lb42Pj6+Rz5PzlhOYN
 5pbnH+ep6DLovOlG6dDqW+rl63Dr++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ
 86f0NPTC9VD13vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+S/7c/23//w==
-</image_data>	<check_for>/Applications/Speed Download 5</check_for>	<diff>/Applications/Speed Download 5
-/Users/wbs/Library/Preferences/com.yazsoft.SpeedDownload.plist
+</image_data>
+	<check_for>/Applications/Speed Download 5</check_for>
+	<diff>/Applications/Speed Download 5
+/Users/admin/Library/Preferences/com.yazsoft.SpeedDownload.plist
 /Library/Preferences/com.yazsoft.SpeedDownload.plist
-/Users/wbs/Library/Application Support/Speed Download
-/Users/wbs/Library/Preferences/com.yazsoft.SpeedDownloadUninstall.plist</diff></preinstalled_package>
+/Users/admin/Library/Application Support/Speed Download
+/Users/admin/Library/Preferences/com.yazsoft.SpeedDownloadUninstall.plist</diff>
+</preinstalled_package>

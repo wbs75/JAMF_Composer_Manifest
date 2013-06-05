@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Toast Titanium</name>	<notes>Toast Titanium 11.1 (1072)</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Toast Titanium.app</image_path>	<check_for>/Applications/Toast Titanium.app</check_for>	<diff>/Applications/Toast Titanium.app
-/Users/wbs/Library/Application Support/Roxio
-/Users/wbs/Library/Preferences/com.roxio.Toast.plist
-/Users/wbs/Library/Preferences/Roxio Toast Prefs
-/Users/wbs/Library/Services/ToastIt.service</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Toast Titanium</name>	<notes>Toast Titanium 11.1 (1072)</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Toast Titanium.app</image_path>	<check_for>/Applications/Toast Titanium.app</check_for>	<diff>/Applications/Toast Titanium.app/Users/admin/Library/Application Support/Roxio/Users/admin/Library/Preferences/com.roxio.Toast.plist/Users/admin/Library/Preferences/Roxio Toast Prefs/Users/admin/Library/Services/ToastIt.service</diff></preinstalled_package>

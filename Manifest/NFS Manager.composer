@@ -1,3 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>NFS Manager</name>	<notes>NFS Manager</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/NFS Manager.app</image_path>	<check_for>/Applications/NFS Manager.app</check_for>	<diff>NFS Manager.app
-/Users/wbs/Library/Preferences/com.bresink.system.nfsmanager.plist
-/Applications/NFS Manager.app</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>NFS Manager</name>	<notes>NFS Manager</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/NFS Manager.app</image_path>	<check_for>/Applications/NFS Manager.app</check_for>	<diff>NFS Manager.app/Users/admin/Library/Preferences/com.bresink.system.nfsmanager.plist/Applications/NFS Manager.app</diff></preinstalled_package>

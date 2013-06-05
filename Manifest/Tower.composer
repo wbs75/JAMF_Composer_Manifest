@@ -1,3 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Tower</name>	<notes>Tower 1.4.19</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Tower.app</image_path>	<check_for>/Applications/Tower.app</check_for>	<diff>/Applications/Tower.app
-/Users/wbs/Library/Application Support/Tower
-/Users/wbs/Library/Preferences/com.fournova.Tower.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Tower</name>	<notes>Tower 1.4.19</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Tower.app</image_path>	<check_for>/Applications/Tower.app</check_for>	<diff>/Applications/Tower.app/Users/admin/Library/Application Support/Tower/Users/admin/Library/Preferences/com.fournova.Tower.plist</diff></preinstalled_package>

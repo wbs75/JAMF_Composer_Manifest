@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>TVShows2</name>	<notes>TVShows2</notes>	<created_by>William B Smith</created_by>	<image_path></image_path>	<image_data>TU0AKgAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>TVShows2</name>
+	<notes>TVShows2</notes>
+	<created_by>William B Smith</created_by>
+	<image_path></image_path>
+	<image_data>TU0AKgAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -409,6 +415,9 @@ zbXONs62zzfPuNA50LrRPNG+0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY6Nls
 2fHadtr724DcBdyK3RDdlt4c3qLfKd+v4DbgveFE4cziU+Lb42Pj6+Rz5PzlhOYN
 5pbnH+ep6DLovOlG6dDqW+rl63Dr++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ
 86f0NPTC9VD13vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+S/7c/23//w==
-</image_data>	<check_for>/Users/wbs/Library/PreferencePanes/TVShows.prefPane</check_for>	<diff>/Users/wbs/Library/PreferencePanes/TVShows.prefPane
-/Users/wbs/Library/Application Support/TVShows 2
-/Users/wbs/Library/Preferences/com.victorpimentel.TVShows2.plist</diff></preinstalled_package>
+</image_data>
+	<check_for>/Users/admin/Library/PreferencePanes/TVShows.prefPane</check_for>
+	<diff>/Users/admin/Library/PreferencePanes/TVShows.prefPane
+/Users/admin/Library/Application Support/TVShows 2
+/Users/admin/Library/Preferences/com.victorpimentel.TVShows2.plist</diff>
+</preinstalled_package>

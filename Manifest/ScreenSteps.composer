@@ -1,3 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>ScreenSteps</name>	<notes>ScreenSteps 2.9.6</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/ScreenSteps.app</image_path>	<check_for>/Applications/ScreenSteps.app</check_for>	<diff>/Applications/ScreenSteps.app
-/Users/wbs/Library/Application Support/ScreenSteps
-/Users/wbs/Library/Preferences/ScreenSteps 2 Preferences.dat</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>ScreenSteps</name>	<notes>ScreenSteps 2.9.6</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/ScreenSteps.app</image_path>	<check_for>/Applications/ScreenSteps.app</check_for>	<diff>/Applications/ScreenSteps.app/Users/admin/Library/Application Support/ScreenSteps/Users/admin/Library/Preferences/ScreenSteps 2 Preferences.dat</diff></preinstalled_package>

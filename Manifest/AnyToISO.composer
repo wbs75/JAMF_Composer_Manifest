@@ -1,3 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>AnyToISO</name>	<notes>AnyToISO</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/AnyToISO.app</image_path>	<check_for>/Applications/AnyToISO.app</check_for>	<diff>/Applications/AnyToISO.app
-/Users/wbs/Library/Preferences/com.crystalidea.AnyToISO.plist
-/Users/wbs/Library/Preferences/com.crystalidea-software.AnyToISO.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>AnyToISO</name>	<notes>AnyToISO</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/AnyToISO.app</image_path>	<check_for>/Applications/AnyToISO.app</check_for>	<diff>/Applications/AnyToISO.app/Users/admin/Library/Preferences/com.crystalidea.AnyToISO.plist/Users/admin/Library/Preferences/com.crystalidea-software.AnyToISO.plist</diff></preinstalled_package>

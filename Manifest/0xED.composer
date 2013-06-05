@@ -1,2 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>0xED</name>	<notes>0xED</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/0xED.app</image_path>	<check_for>/Applications/0xED.app</check_for>	<diff>/Applications/0xED.app
-/Users/wbs/Library/Preferences/com.suavetech.0xED.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>0xED</name>	<notes>0xED</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/0xED.app</image_path>	<check_for>/Applications/0xED.app</check_for>	<diff>/Applications/0xED.app/Users/admin/Library/Preferences/com.suavetech.0xED.plist</diff></preinstalled_package>

@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Real Studio 2012</name>	<notes>Real Studio 2012</notes>	<created_by>W. S.</created_by>	<image_path></image_path>	<image_data>TU0AKgAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Real Studio 2012</name>
+	<notes>Real Studio 2012</notes>
+	<created_by>W. S.</created_by>
+	<image_path></image_path>
+	<image_data>TU0AKgAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -409,7 +415,11 @@ zbXONs62zzfPuNA50LrRPNG+0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY6Nls
 2fHadtr724DcBdyK3RDdlt4c3qLfKd+v4DbgveFE4cziU+Lb42Pj6+Rz5PzlhOYN
 5pbnH+ep6DLovOlG6dDqW+rl63Dr++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ
 86f0NPTC9VD13vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+S/7c/23//w==
-</image_data>	<check_for>/Users/wbs/Library/Application Support/Real Software</check_for>	<check_for>/Applications/Real Studio 2012</check_for>	<diff>/Applications/Real Studio 2012 Release 2.1
-/Users/wbs/Library/Application Support/Real Software
-/Users/wbs/Library/Preferences/com.realsoftware.realstudio.plist
-/Applications/Real Studio 2012</diff></preinstalled_package>
+</image_data>
+	<check_for>/Users/admin/Library/Application Support/Real Software</check_for>
+	<check_for>/Applications/Real Studio 2012</check_for>
+	<diff>/Applications/Real Studio 2012 Release 2.1
+/Users/admin/Library/Application Support/Real Software
+/Users/admin/Library/Preferences/com.realsoftware.realstudio.plist
+/Applications/Real Studio 2012</diff>
+</preinstalled_package>

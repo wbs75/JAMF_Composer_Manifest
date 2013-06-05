@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Archiver</name>	<notes>Archiver 2.0.1</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Archiver.app</image_path>	<check_for>/Applications/Archiver.app</check_for>	<diff>/Applications/Archiver.app
-/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSKeyedArchiver.h
-/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSArchiver.h
-/Users/wbs/Library/Preferences/com.creativebe.Archiver.plist
-/Users/wbs/Library/Preferences/com.incrediblebee.Archiver.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Archiver</name>	<notes>Archiver 2.0.1</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/Archiver.app</image_path>	<check_for>/Applications/Archiver.app</check_for>	<diff>/Applications/Archiver.app/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSKeyedArchiver.h/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSArchiver.h/Users/admin/Library/Preferences/com.creativebe.Archiver.plist/Users/admin/Library/Preferences/com.incrediblebee.Archiver.plist</diff></preinstalled_package>

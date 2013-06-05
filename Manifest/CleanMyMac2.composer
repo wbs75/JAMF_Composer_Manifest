@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>CleanMyMac2</name>	<notes>CleanMyMac 2</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/CleanMyMac 2.app</image_path>	<check_for>/Applications/CleanMyMac 2.app</check_for>	<diff>/Applications/CleanMyMac 2.app
-/Users/Shared/CleanMyMac 2
-/Users/wbs/Library/Application Support/CleanMyMac 2
-/Users/wbs/Library/Preferences/com.macpaw.CleanMyMac2.plist
-/Library/LaunchDaemons/com.macpaw.CleanMyMac2.Agent.plist
-/Library/PrivilegedHelperTools/com.macpaw.CleanMyMac2.Agent
-/Users/wbs/Library/LaunchAgents/com.macpaw.CleanMyMac2Helper.trashWatcher.plist
-/Users/wbs/Library/LaunchAgents/com.macpaw.CleanMyMac2Helper.scheduledScan.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>CleanMyMac2</name>	<notes>CleanMyMac 2</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/CleanMyMac 2.app</image_path>	<check_for>/Applications/CleanMyMac 2.app</check_for>	<diff>/Applications/CleanMyMac 2.app/Users/Shared/CleanMyMac 2/Users/admin/Library/Application Support/CleanMyMac 2/Users/admin/Library/Preferences/com.macpaw.CleanMyMac2.plist/Library/LaunchDaemons/com.macpaw.CleanMyMac2.Agent.plist/Library/PrivilegedHelperTools/com.macpaw.CleanMyMac2.Agent/Users/admin/Library/LaunchAgents/com.macpaw.CleanMyMac2Helper.trashWatcher.plist/Users/admin/Library/LaunchAgents/com.macpaw.CleanMyMac2Helper.scheduledScan.plist</diff></preinstalled_package>

@@ -1,3 +1,1 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>CodeKit</name>	<notes>CodeKit 1.6.1</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/CodeKit.app</image_path>	<check_for>/Applications/CodeKit.app</check_for>	<diff>/Applications/CodeKit.app
-/Users/wbs/Library/CodeKit
-/Users/wbs/Library/Preferences/com.incident57.CodeKit.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>CodeKit</name>	<notes>CodeKit 1.6.1</notes>	<created_by>W. S.</created_by>	<image_path>/Applications/CodeKit.app</image_path>	<check_for>/Applications/CodeKit.app</check_for>	<diff>/Applications/CodeKit.app/Users/admin/Library/CodeKit/Users/admin/Library/Preferences/com.incident57.CodeKit.plist</diff></preinstalled_package>
