@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>TechTool Pro 7</name>
+	<notes>TechTool Pro 7</notes>
+	<created_by>W.S.</created_by>
+	<image_path>/Applications/TechTool Pro 7.app</image_path>
+	<check_for>/Applications/TechTool Pro 7.app</check_for>
+	<diff>/Applications/TechTool Pro 7.app
+/Users/wbs/Library/Preferences/com.micromat.techtoolpro7.plist
+/Users/wbs/Library/Application Support/TechTool Pro 7</diff>
+</preinstalled_package>
