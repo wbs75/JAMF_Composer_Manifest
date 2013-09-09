@@ -8,9 +8,9 @@
 	<diff>/Applications/TinkerTool System.app
 /Library/PrivilegedHelperTools/com.bresink.system.securityagent3
 /Library/LaunchDaemons/com.bresink.system.securityagent3.plist
-/Users/wbs/Library/Preferences/com.bresink.system.tinkertoolsystem2.plist
-/Users/wbs/Library/Preferences/com.bresink.system.prefedit.plist
-/Users/wbs/Library/Preferences/com.bresink.system.tinkertool.plist
+/Users/admin/Library/Preferences/com.bresink.system.tinkertoolsystem2.plist
+/Users/admin/Library/Preferences/com.bresink.system.prefedit.plist
+/Users/admin/Library/Preferences/com.bresink.system.tinkertool.plist
 /Library/Preferences/com.bresink.system.tinkertoolsystem2.plist
 /Library/StartupItems/BRESINKx86Monitoring
 /Library/LaunchDaemons/com.bresink.system.securityagent3a.plist</diff>
