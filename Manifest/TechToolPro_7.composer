@@ -6,6 +6,6 @@
 	<image_path>/Applications/TechTool Pro 7.app</image_path>
 	<check_for>/Applications/TechTool Pro 7.app</check_for>
 	<diff>/Applications/TechTool Pro 7.app
-/Users/wbs/Library/Preferences/com.micromat.techtoolpro7.plist
-/Users/wbs/Library/Application Support/TechTool Pro 7</diff>
+/Users/admin/Library/Preferences/com.micromat.techtoolpro7.plist
+/Users/admin/Library/Application Support/TechTool Pro 7</diff>
 </preinstalled_package>
