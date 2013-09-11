@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>Sublime Text 2</name>
+	<notes>Version 2.0.1</notes>
+	<created_by>William Smith</created_by>
+	<image_path>/Applications/Sublime Text 2.app</image_path>
+	<check_for>/Applications/Sublime Text 2.app</check_for>
+	<diff>/Applications/Sublime Text 2.app
+/Users/admin/Library/Application Support/Sublime Text 2
+/Users/admin/Library/Preferences/com.sublimetext.2.plist</diff>
+</preinstalled_package>

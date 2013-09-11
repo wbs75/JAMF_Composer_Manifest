@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>TinkerTool System 2</name>	<notes>TinkerTool System 2</notes>	<created_by>WS</created_by>	<image_path>/Applications/TinkerTool System.app</image_path>	<check_for>/Applications/TinkerTool System.app</check_for>	<diff>/Applications/TinkerTool System.app
-/Library/PrivilegedHelperTools/com.bresink.system.securityagent3
-/Library/LaunchDaemons/com.bresink.system.securityagent3.plist
-/Users/wbs/Library/Preferences/com.bresink.system.tinkertoolsystem2.plist
-/Users/wbs/Library/Preferences/com.bresink.system.prefedit.plist
-/Users/wbs/Library/Preferences/com.bresink.system.tinkertool.plist
-/Library/Preferences/com.bresink.system.tinkertoolsystem2.plist
-/Library/StartupItems/BRESINKx86Monitoring
-/Library/LaunchDaemons/com.bresink.system.securityagent3a.plist</diff></preinstalled_package>
