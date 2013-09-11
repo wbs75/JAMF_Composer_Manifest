@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>iTeleport Connect</name>	<notes>iTeleport Connect</notes>	<created_by>wbs</created_by>	<image_path>/Applications/iTeleport Connect.app</image_path>	<check_for>/Applications/iTeleport Connect.app</check_for>	<diff>/Applications/iTeleport Connect.app
+/Users/wbs/Library/Preferences/com.iteleport.iTeleport_Connect.plist
+/Users/wbs/Library/Preferences/com.iteleport.iteleportformac.plist</diff></preinstalled_package>
