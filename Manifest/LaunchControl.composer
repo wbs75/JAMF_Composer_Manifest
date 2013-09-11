@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>LaunchControl</name>	<notes>LaunchControl</notes>	<created_by>William Smith</created_by>	<image_path>/Applications/LaunchControl.app</image_path>	<check_for>/Applications/LaunchControl.app</check_for>	<diff>/Applications/LaunchControl.app/Users/admin/Library/Preferences/com.soma-zone.LaunchControl.plist</diff></preinstalled_package>
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>LaunchControl</name>	<notes>LaunchControl</notes>	<created_by>wbs</created_by>	<image_path>/Applications/LaunchControl.app</image_path>	<check_for>/Applications/LaunchControl.app</check_for>	<diff>/Applications/LaunchControl.app
+/Users/wbs/Library/Preferences/com.soma-zone.LaunchControl.plist
+/Volumes/X1/Downloads/LaunchControl.app
+/Library/LaunchDaemons/com.soma-zone.LaunchControl.Helper.plist
+/Library/PrivilegedHelperTools/com.soma-zone.LaunchControl.Helper</diff></preinstalled_package>
