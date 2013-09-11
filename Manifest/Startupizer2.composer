@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Startupizer2</name>	<notes>Startupizer2</notes>	<created_by>wbs</created_by>	<image_path>/Applications/Startupizer2.app</image_path>	<check_for>/Applications/Startupizer2.app</check_for>	<diff>/Applications/Startupizer2.app
+/Users/wbs/Library/Preferences/com.gentlebytes.Startupizer2.plist
+/Users/wbs/Library/Application Support/Startupizer 2
+/Users/wbs/Library/Application Support/Startupizer</diff></preinstalled_package>

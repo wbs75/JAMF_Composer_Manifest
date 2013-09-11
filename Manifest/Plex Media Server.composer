@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Plex Media Server</name>	<notes>Plex Media Server</notes>	<created_by>wbs</created_by>	<image_path>/Applications/Plex Media Server.app</image_path>	<check_for>/Applications/Plex Media Server.app</check_for>	<diff>/Applications/Plex Media Server.app
+/Users/wbs/Library/Application Support/Plex Media Server
+/Users/wbs/Library/Preferences/com.plexapp.plexmediaserver.plist</diff></preinstalled_package>
