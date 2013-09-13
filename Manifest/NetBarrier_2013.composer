@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>NetBarrier_2013</name>
+	<notes>NetBarrier_2013</notes>
+	<created_by>WBS</created_by>
+	<image_path>/Applications/Intego/NetBarrier.app</image_path>
+	<check_for>/Applications/Intego/NetBarrier.app</check_for>
+	<diff>/Applications/Intego
+/Applications/Intego/NetBarrier.app
+/Applications/Intego/NetUpdate.app
+/Library/Preferences/Intego
+/Library/Intego
+/Library/LaunchDaemons/com.intego.commonservices.metrics.kschecker.plist
+/Library/LaunchDaemons/com.intego.commonservices.daemon.taskmanager.plist
+/Library/LaunchAgents/com.intego.commonservices.integomenu.plist
+/Library/LaunchDaemons/com.intego.netbarrier.daemon.monitor.plist
+/Library/LaunchDaemons/com.intego.netbarrier.daemon.logger.plist
+/Library/LaunchDaemons/com.intego.netbarrier.daemon.plist
+/Library/LaunchDaemons/com.intego.netupdate.daemon.plist
+/Library/LaunchDaemons/com.intego.commonservices.daemon.integod.plist
+/Library/LaunchDaemons/com.intego.commonservices.icalserver.plist
+/Library/LaunchDaemons/com.intego.commonservices.daemon.taskmanager.plist
+/Library/LaunchAgents/com.intego.netbarrier.alert.plist
+/Library/LaunchAgents/com.intego.commonservices.taskmanager.plist
+/Library/LaunchAgents/com.intego.netbarrier.alert.plist
+/Library/LaunchAgents/com.intego.netupdate.agent.plist
+/Library/PrivilegedHelperTools/NetUpdateAgent.app
+/Library/Frameworks/IntegoiCalFramework.framework
+/Library/Frameworks/NetUpdateShared.framework
+/Users/Shared/.intego_metrics.plist
+/Library/Frameworks/NetUpdateShared.framework
+/usr/local/share
+/usr/local/share
+/usr/local/mysql</diff>
+</preinstalled_package>

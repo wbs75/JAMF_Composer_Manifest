@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<preinstalled_package>
+	<name>LittleSnitch</name>
+	<notes>LittleSnitch</notes>
+	<created_by>wbs</created_by>
+	<image_path>/Applications/Little Snitch Configuration.app</image_path>
+	<check_for>/Applications/Little Snitch Configuration.app</check_for>
+	<diff>/Applications/Little Snitch Configuration.app
+/Library/LaunchAgents/at.obdev.LittleSnitchUIAgent.plist
+/Library/Little Snitch
+/Library/LaunchDaemons/at.obdev.littlesnitchd.plist
+/Library/Application Support/Objective Development
+/System/Library/Extensions/LittleSnitch.kext</diff>
+</preinstalled_package>
