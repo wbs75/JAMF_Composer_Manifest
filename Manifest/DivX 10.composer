@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>DivX 10</name>	<notes>DivX 10</notes>	<created_by>wbs</created_by>	<image_path>/Applications/DivX Player.app</image_path>	<check_for>/Applications/DivX Player.app</check_for>	<diff>/Library/LaunchAgents/com.divx.update.agent.plist
+/Library/QuickTime/DivX Encoder.component
+/Users/wbs/Library/Preferences/com.divx.DivXMediaServer.plist
+/usr/local/Qt
+/Users/wbs/Library/Preferences/com.divx.TranscodeEngine.plist
+/Users/wbs/Library/Preferences/com.divx.Update.plist
+/Applications/DivX
+/Applications/DivX Player.app
+/Library/Application Support/DivX
+/Applications/DivX Converter.app
+/Users/wbs/Library/Preferences/com.divx.Converter.plist
+/Library/Internet Plug-Ins/OVSHelper.plugin
+/Library/Frameworks/DivX Toolkit.framework
+/Library/Internet Plug-Ins/DivX Web Player.plugin
+/Users/wbs/Library/Preferences/com.divx.Player.plist
+/Users/wbs/Library/Preferences/com.divx.TransferWizard.plist
+/Library/LaunchAgents/com.divx.dms.agent.plist
+/Library/QuickTime/DivX Decoder.component</diff></preinstalled_package>
