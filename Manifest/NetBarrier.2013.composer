@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <preinstalled_package>
-	<name>NetBarrier_2013</name>
-	<notes>NetBarrier_2013</notes>
-	<created_by>WBS</created_by>
+	<name>NetBarrier.2013</name>
+	<notes>NetBarrier.2013</notes>
+	<created_by>WS</created_by>
 	<image_path>/Applications/Intego/NetBarrier.app</image_path>
 	<check_for>/Applications/Intego/NetBarrier.app</check_for>
+	<check_for>/Applications/Intego/NetUpdate.app</check_for>
 	<diff>/Applications/Intego
 /Applications/Intego/NetBarrier.app
 /Applications/Intego/NetUpdate.app
@@ -31,5 +32,11 @@
 /Library/Frameworks/NetUpdateShared.framework
 /usr/local/share
 /usr/local/share
-/usr/local/mysql</diff>
+/usr/local/mysql
+/Users/admin/Library/Preferences/com.intego.NetUpdateChecker.plist
+/Users/admin/Library/Preferences/com.intego.NetUpdate.plist
+/Users/admin/Library/Preferences/com.intego.netbarrier.alert.plist
+/Users/admin/Library/Preferences/com.intego.commonservices.taskmanager.notifier.plist
+/Users/admin/Library/Preferences/com.intego.app.netbarrier.plist
+/Users/admin/Library/Preferences/com.intego.app.netbarrier.monitor.plist</diff>
 </preinstalled_package>

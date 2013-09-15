@@ -7,8 +7,6 @@
 	<check_for>/Applications/Cocktail.app</check_for>
 	<diff>/Applications/Cocktail.app
 /Library/Application Support/Cocktail
-/Library/StartupItems/Cocktail/Cocktail
-/Library/StartupItems/Cocktail
 /Library/Preferences/com.maintain.cocktail.plist
 /Library/LaunchAgents/com.maintain.CocktailSystemEvents.plist
 /Library/LaunchAgents/com.maintain.CocktailPurgeInactiveMemory.plist

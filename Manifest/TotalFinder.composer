@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>TotalFinder</name>	<notes>TotalFinder</notes>	<created_by>wbs</created_by>	<image_path>/Applications/TotalFinder.app</image_path>	<check_for>/Applications/TotalFinder.app</check_for>	<diff>/Applications/TotalFinder.app
+/Library/ScriptingAdditions
+/Users/wbs/Library/Preferences/com.binaryage.totalfinder.plist
+/Users/wbs/Library/Preferences/com.apple.finder.plist</diff></preinstalled_package>
