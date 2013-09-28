@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>Apple Server</name>	<notes>Apple Server 2.2.2</notes>	<created_by>wbs</created_by>	<image_path>/Applications/Server.app</image_path>	<check_for>/Applications/Server.app</check_for>	<diff>/Applications/Server.app</diff></preinstalled_package>
