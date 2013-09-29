@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>iSerial Reader</name>	<notes>iSerial Reader</notes>	<created_by>admin</created_by>	<image_path>/Applications/iSerial Reader.app</image_path>	<check_for>/Applications/iSerial Reader.app</check_for>	<diff>/Applications/iSerial Reader.app
+<?xml version="1.0" encoding="ISO-8859-1"?><preinstalled_package>	<name>iSerial Reader</name>	<notes>iSerial Reader</notes>	<created_by>wbs</created_by>	<image_path>/Applications/iSerial Reader.app</image_path>	<check_for>/Applications/iSerial Reader.app</check_for>	<diff>/Applications/iSerial Reader.app
 /Users/wbs/Library/Application Support/iSerial Reader
 /Users/wbs/Library/Preferences/iSerial Reader.plist
 /Users/wbs/Library/Preferences/iSerial Reader Preferences.ini</diff></preinstalled_package>
